@@ -1,0 +1,6 @@
+{
+  "name": "光储充集中监控大屏",
+  "description": "中国节能 CECEP 光储充多站点集约监控、分析与指挥调度中心大屏大屏",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
